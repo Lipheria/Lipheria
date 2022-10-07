@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayowa aka @Lipheria
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in HTML, CSS, JavaScript, REACT, Angular
 - 🌱 I’m currently learning UIPath Robotic Process Automation
 
 
